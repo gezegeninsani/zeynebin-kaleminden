@@ -1,6 +1,6 @@
 import '../styles/globals.css';
 import { Header } from '@/components/Header';
-import { Sidebar } from '@/components/Sidebar';
+import Sidebar from '@/components/Sidebar';
 import { VersionIndicator } from '@/components/VersionIndicator';
 
 export const metadata = {
